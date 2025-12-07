@@ -52,6 +52,8 @@ Removed duplicates, blanks, and inconsistent entries
 
 Applied formatting for readability and analysis
 
+![Dashboard Preview](dashboard_screenshots/DASHBOARD-FINAL.png)
+
 📁 Repository Contents
 File	Description
 Healthcare_Insights_Dashboard.xlsx	Final interactive dashboard
