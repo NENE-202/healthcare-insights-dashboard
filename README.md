@@ -151,7 +151,7 @@ Esther Emmanuel
 Aspiring Data Analyst
 Excel ▪ SQL ▪ Python
 
-🔗https://www.linkedin.com/oziowuh-emmanuel-654034292/ 
+🔗https://www.linkedin.com/in/oziowuh-emmanuel-654034292/ 
 
 
 ⭐ Support the Project
